@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, D:/Programy/altera/lab1optimal/Lab1-optimal.bdf
+source_file = 1, D:/Programy/altera/lab1optimal/Waveform.vwf
+source_file = 1, D:/Programy/altera/lab1optimal/db/Lab1-optimal.cbx.xml
+design_name = \Lab1-optimal 
+instance = comp, \ISW[1]~I , ISW[1], \Lab1-optimal , 1
+instance = comp, \ISW[0]~I , ISW[0], \Lab1-optimal , 1
+instance = comp, \inst7~0 , inst7~0, \Lab1-optimal , 1
+instance = comp, \ISW[2]~I , ISW[2], \Lab1-optimal , 1
+instance = comp, \OLEDR[2]~I , OLEDR[2], \Lab1-optimal , 1
+instance = comp, \OLEDR[1]~I , OLEDR[1], \Lab1-optimal , 1
+instance = comp, \OLEDR[0]~I , OLEDR[0], \Lab1-optimal , 1
