@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, D:/Programy/altera/lab2-d/lab2-d.bdf
+source_file = 1, D:/Programy/altera/lab2-d/Waveform.vwf
+source_file = 1, D:/Programy/altera/lab2-d/db/lab2-d.cbx.xml
+design_name = \lab2-d 
+instance = comp, \CLK~I , CLK, \lab2-d , 1
+instance = comp, \CLK~clkctrl , CLK~clkctrl, \lab2-d , 1
+instance = comp, \D2~0 , D2~0, \lab2-d , 1
+instance = comp, \ISW[2]~I , ISW[2], \lab2-d , 1
+instance = comp, \ISW[1]~I , ISW[1], \lab2-d , 1
+instance = comp, \ISW[0]~I , ISW[0], \lab2-d , 1

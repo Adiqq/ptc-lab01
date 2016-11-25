@@ -1,0 +1,8 @@
+|lab2-async
+Q2 <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+Clock => inst.CLK
+Q3 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+Q4 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+Q1 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+

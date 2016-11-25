@@ -1,0 +1,165 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'inst2'
+Slack : 0.379
+TNS   : 0.000
+
+Type  : Slow Model Setup 'inst1'
+Slack : 0.954
+TNS   : 0.000
+
+Type  : Slow Model Setup 'inst'
+Slack : 1.138
+TNS   : 0.000
+
+Type  : Slow Model Setup 'Clock'
+Slack : 2.468
+TNS   : 0.000
+
+Type  : Slow Model Hold 'Clock'
+Slack : -2.198
+TNS   : -2.198
+
+Type  : Slow Model Hold 'inst'
+Slack : -0.868
+TNS   : -0.868
+
+Type  : Slow Model Hold 'inst1'
+Slack : -0.684
+TNS   : -0.684
+
+Type  : Slow Model Hold 'inst2'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'inst1'
+Slack : -0.995
+TNS   : -0.995
+
+Type  : Slow Model Recovery 'inst2'
+Slack : -0.944
+TNS   : -0.944
+
+Type  : Slow Model Recovery 'inst'
+Slack : -0.811
+TNS   : -0.811
+
+Type  : Slow Model Recovery 'Clock'
+Slack : -0.121
+TNS   : -0.121
+
+Type  : Slow Model Removal 'Clock'
+Slack : -0.892
+TNS   : -0.892
+
+Type  : Slow Model Removal 'inst'
+Slack : 0.298
+TNS   : 0.000
+
+Type  : Slow Model Removal 'inst2'
+Slack : 0.431
+TNS   : 0.000
+
+Type  : Slow Model Removal 'inst1'
+Slack : 0.482
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'Clock'
+Slack : -1.380
+TNS   : -2.380
+
+Type  : Slow Model Minimum Pulse Width 'inst'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Slow Model Minimum Pulse Width 'inst1'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Slow Model Minimum Pulse Width 'inst2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Setup 'inst2'
+Slack : 0.665
+TNS   : 0.000
+
+Type  : Fast Model Setup 'inst1'
+Slack : 0.774
+TNS   : 0.000
+
+Type  : Fast Model Setup 'inst'
+Slack : 0.858
+TNS   : 0.000
+
+Type  : Fast Model Setup 'Clock'
+Slack : 1.543
+TNS   : 0.000
+
+Type  : Fast Model Hold 'Clock'
+Slack : -1.163
+TNS   : -1.163
+
+Type  : Fast Model Hold 'inst'
+Slack : -0.478
+TNS   : -0.478
+
+Type  : Fast Model Hold 'inst1'
+Slack : -0.394
+TNS   : -0.394
+
+Type  : Fast Model Hold 'inst2'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'inst1'
+Slack : -0.023
+TNS   : -0.023
+
+Type  : Fast Model Recovery 'inst2'
+Slack : -0.005
+TNS   : -0.005
+
+Type  : Fast Model Recovery 'inst'
+Slack : 0.061
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'Clock'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast Model Removal 'Clock'
+Slack : -0.489
+TNS   : -0.489
+
+Type  : Fast Model Removal 'inst'
+Slack : 0.128
+TNS   : 0.000
+
+Type  : Fast Model Removal 'inst2'
+Slack : 0.194
+TNS   : 0.000
+
+Type  : Fast Model Removal 'inst1'
+Slack : 0.212
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'Clock'
+Slack : -1.380
+TNS   : -2.380
+
+Type  : Fast Model Minimum Pulse Width 'inst'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'inst1'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'inst2'
+Slack : -0.500
+TNS   : -1.000
+
+------------------------------------------------------------
